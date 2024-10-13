@@ -1,5 +1,5 @@
 
-## 👨‍💻 Foysal Imtiaz Sabab 
+##   ⚯ ͛   Foysal Imtiaz Sabab 
 
 👋 Hi, I'm a Computer Science student doing my undergrad. Currently I'm diving into Full Stack and Machine Learning. I love building projects, experimenting with new technologies, and sharing my work with the community. I'm also exploring SaaS and its potential for innovative solutions. I'm open to collaboration and always eager to learn something new! 🚀
 Mail me at foysalimtiaz96@gmail.com.
@@ -21,7 +21,5 @@ Mail me at foysalimtiaz96@gmail.com.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#
 
 
